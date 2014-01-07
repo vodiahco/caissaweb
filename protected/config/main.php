@@ -76,10 +76,10 @@ return array(
 			'charset' => 'utf8',
                          'tablePrefix' => 'vin_',
                     //                    
-//                         'connectionString' => 'mysql:host=db494629406.db.1and1.com;dbname=db494629406',
+//                         'connectionString' => 'mysql:host=db494629406pmaster.db.1and1.com;dbname=db494629406pmaster',
 //			'emulatePrepare' => true,
-//                          'username' => 'dbo494629406',
-//			'password' => '@global360',
+//                          'username' => 'dbo494629406pmaster',
+//			'password' => '@global360xto',
 //			'charset' => 'utf8',
 //                         'tablePrefix' => 'vin_',
 		),
